@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Domine JavaScript em 10 Dias!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este ebook oferece um guia rápido e prático para aprender JavaScript, a linguagem essencial para desenvolvimento web, em apenas 10 dias. Ele abrange desde a configuração do ambiente de desenvolvimento até conceitos avançados como programação assíncrona, passando por manipulação de DOM, eventos, arrays e objetos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **IA Generativa ChatGPT**: Para roteirização e estruturação do conteúdo.
+- **IA Generativa Leonardo AI**: Para criar imagens ilustrativas e visuais do ebook.
+- **Canva**: Para montagem e design final do ebook.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar e estruturar o conteúdo sobre JavaScript, garantindo clareza e precisão. Em seguida, o "Leonardo AI" foi empregado para gerar imagens exclusivas que ilustram conceitos e exemplos de código. A montagem final e o design do ebook foram realizados no Canva, aproveitando suas ferramentas intuitivas de design gráfico.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ebook apresenta um conteúdo claro, estruturado e visualmente atraente, permitindo aos leitores:
+- Configurar um ambiente de desenvolvimento JavaScript eficiente.
+- Entender e utilizar a sintaxe básica e os tipos de dados em JavaScript.
+- Criar e chamar funções, incluindo funções anônimas e arrow functions.
+- Aplicar estruturas condicionais e laços de repetição.
+- Manipular o DOM para criar páginas web interativas.
+- Adicionar e manipular eventos para melhorar a interatividade do usuário.
+- Trabalhar com arrays e objetos para gerenciar dados.
+- Compreender e aplicar conceitos de programação assíncrona usando callbacks, promises e async/await.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O E-BOOK AQUI](https://www.canva.com/design/DAGGbkPNIig/WfYMLiMf8WE4OvMtA3GfLQ/view?utm_content=DAGGbkPNIig&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este ebook foi uma experiência enriquecedora, destacando o potencial das IAs generativas em criar conteúdo educativo e visualmente atraente. A combinação de ferramentas de IA e plataformas de design mostrou-se eficaz para produzir um recurso de aprendizado valioso e acessível.
