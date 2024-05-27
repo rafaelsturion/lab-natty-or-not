@@ -22,8 +22,7 @@ O ebook apresenta um conteúdo claro, estruturado e visualmente atraente, permit
 - Trabalhar com arrays e objetos para gerenciar dados.
 - Compreender e aplicar conceitos de programação assíncrona usando callbacks, promises e async/await.
 
-[LINK PARA O E-BOOK AQUI]([https://www.canva.com/design/DAGGbkPNIig/WfYMLiMf8WE4OvMtA3GfLQ/view?utm_content=DAGGbkPNIig&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGGbkPNIig/WfYMLiMf8WE4OvMtA3GfLQ/view?utm_content=DAGGbkPNIig&utm_campaign=designshare&utm_medium=link&utm_source=editor))
-
+[LINK PARA O E-BOOK AQUI](https://www.canva.com/design/DAGGbkPNIig/WfYMLiMf8WE4OvMtA3GfLQ/view?utm_content=DAGGbkPNIig&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 💭 Reflexão
 Criar este ebook foi uma experiência enriquecedora, destacando o potencial das IAs generativas em criar conteúdo educativo e visualmente atraente. A combinação de ferramentas de IA e plataformas de design mostrou-se eficaz para produzir um recurso de aprendizado valioso e acessível.
